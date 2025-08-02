@@ -10,7 +10,7 @@ This repository contains solutions to common DSA problems in Java.
 🔹 Code written with readability and clarity
 🔹 Some problems include time and space complexity analysis
 
-![image alt]([DSA img.jpeg](https://github.com/manishkuchalia12/-DataStructures-Algorithms-/blob/0e9794935eadd48cd62b44ea091beb4c23dc577a/DSA%20img.jpeg))
+![image alt](https://github.com/manishkuchalia12/-DataStructures-Algorithms-/blob/0e9794935eadd48cd62b44ea091beb4c23dc577a/DSA%20img.jpeg)
 
 #  Topics Covered
 ✅ Arrays

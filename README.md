@@ -4,6 +4,11 @@ Here I upload 1+ DSA problem solutions every day, organized by topic and difficu
 This journey is focused on mastering coding interviews and sharpening problem-solving skills one day at a time 💪.
 This repository contains solutions to common DSA problems in Java.
 
+# ✌️explanation of .java and .class files
+✅ A .java file is the source code file — the code you write in Java.
+🧠 This .class file is not human-readable — it contains instructions that the Java Virtual Machine (JVM) understands.
+    Java compiler (javac) translates our code into bytecode.
+
 # 📌 What You’ll Find Here
 🔹 Well-structured solutions to DSA problems
 🔹 Categorized by topic (Arrays, Strings, Linked List, Trees, etc.)

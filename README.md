@@ -25,7 +25,6 @@ This repository contains solutions to common DSA problems in Java.
 ✅ Searching & Sorting
 
 # 🧠 Goal of this Repository
-“Practice makes perfect.”
 The goal is to improve problem-solving skills and prepare for coding interviews.
 
 # ✍️ Author

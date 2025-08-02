@@ -1,3 +1,4 @@
+package Arrays;
 public class linearSearch  {
     public static int LinearSearch(int numbers[], int target){
 

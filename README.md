@@ -21,7 +21,7 @@ This repository contains solutions to common DSA problems in Java.
 ✅ Arrays
 ✅ Strings
 ✅ Linked Lists
-✅ Stacks & Queues
+✅ Stacks & Queues 
 ✅ Trees (Binary, BST)
 ✅ Graphs (DFS, BFS)
 ✅ Recursion & Backtracking

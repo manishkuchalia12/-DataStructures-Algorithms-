@@ -1,6 +1,6 @@
-# 📘 DSA Daily Practice by Manish Kuchalia
+# 📘 DSA  Practice by Manish Kuchalia
 Welcome to my Daily DSA (Data Structures and Algorithms) Practice Repository! 🚀
-Here I upload 1+ DSA problem solutions every day, organized by topic and difficulty level.
+Here, I have uploaded  DSA problem solutions, organized by topic and difficulty level.
 This journey is focused on mastering coding interviews and sharpening problem-solving skills one day at a time 💪.
 This repository contains solutions to common DSA problems in Java.
 
